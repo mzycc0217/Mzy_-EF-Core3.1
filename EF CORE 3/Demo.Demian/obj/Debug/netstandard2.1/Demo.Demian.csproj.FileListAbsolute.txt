@@ -1,0 +1,8 @@
+E:\,NET CORE 学习\EF CORE 3\Demo.Demian\bin\Debug\netstandard2.1\Demo.Demian.deps.json
+E:\,NET CORE 学习\EF CORE 3\Demo.Demian\bin\Debug\netstandard2.1\Demo.Demian.dll
+E:\,NET CORE 学习\EF CORE 3\Demo.Demian\bin\Debug\netstandard2.1\Demo.Demian.pdb
+E:\,NET CORE 学习\EF CORE 3\Demo.Demian\obj\Debug\netstandard2.1\Demo.Demian.AssemblyInfoInputs.cache
+E:\,NET CORE 学习\EF CORE 3\Demo.Demian\obj\Debug\netstandard2.1\Demo.Demian.AssemblyInfo.cs
+E:\,NET CORE 学习\EF CORE 3\Demo.Demian\obj\Debug\netstandard2.1\Demo.Demian.dll
+E:\,NET CORE 学习\EF CORE 3\Demo.Demian\obj\Debug\netstandard2.1\Demo.Demian.pdb
+E:\,NET CORE 学习\EF CORE 3\Demo.Demian\obj\Debug\netstandard2.1\Demo.Demian.csprojAssemblyReference.cache

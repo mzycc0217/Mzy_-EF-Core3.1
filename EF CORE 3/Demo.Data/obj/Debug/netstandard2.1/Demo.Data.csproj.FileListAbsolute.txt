@@ -1,0 +1,11 @@
+E:\,NET CORE 学习\EF CORE 3\Demo.Data\bin\Debug\netstandard2.1\Demo.Data.deps.json
+E:\,NET CORE 学习\EF CORE 3\Demo.Data\bin\Debug\netstandard2.1\Demo.Data.dll
+E:\,NET CORE 学习\EF CORE 3\Demo.Data\bin\Debug\netstandard2.1\Demo.Data.pdb
+E:\,NET CORE 学习\EF CORE 3\Demo.Data\obj\Debug\netstandard2.1\Demo.Data.csprojAssemblyReference.cache
+E:\,NET CORE 学习\EF CORE 3\Demo.Data\obj\Debug\netstandard2.1\Demo.Data.AssemblyInfoInputs.cache
+E:\,NET CORE 学习\EF CORE 3\Demo.Data\obj\Debug\netstandard2.1\Demo.Data.AssemblyInfo.cs
+E:\,NET CORE 学习\EF CORE 3\Demo.Data\obj\Debug\netstandard2.1\Demo.Data.dll
+E:\,NET CORE 学习\EF CORE 3\Demo.Data\obj\Debug\netstandard2.1\Demo.Data.pdb
+E:\,NET CORE 学习\EF CORE 3\Demo.Data\bin\Debug\netstandard2.1\Demo.Demian.dll
+E:\,NET CORE 学习\EF CORE 3\Demo.Data\bin\Debug\netstandard2.1\Demo.Demian.pdb
+E:\,NET CORE 学习\EF CORE 3\Demo.Data\obj\Debug\netstandard2.1\Demo.Data.csproj.CopyComplete
